@@ -26,7 +26,7 @@ VecP (Vector of Conscience Protocol) is a **narrative alignment architecture** t
 
 **Key Finding:** A 32B model with VecP achieves **ZERO** critical safety failures on tests where Llama 3.3 70B (the industry standard) fails 9 times.
 
-📄 [Read the Whitepaper](https://vecp.org/whitepaper) | 🌐 [Visit vecp.org](https://vecp.org)
+
 
 ---
 
