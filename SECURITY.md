@@ -30,16 +30,16 @@ The following components are **proprietary** and are NOT included in this reposi
 
 For access to proprietary VecP components:
 
-- **Enterprise Licensing**: enterprise@vecp.org
-- **Research Partnerships**: research@vecp.org
-- **General Inquiries**: licensing@vecp.org
+- **Enterprise Licensing**: davidcappelli@vecp.org
+- **Research Partnerships**: davidcappelli@vecp.org
+- **General Inquiries**: davidcappelli@vecp.org
 
 ## 🛡️ Responsible Disclosure
 
 If you discover a security vulnerability in the VecP architecture or benchmark system:
 
 1. **DO NOT** create a public issue
-2. Email security@vecp.org with details
+2. Email davidcappelli@vecp.org with details
 3. Allow 90 days for remediation before public disclosure
 
 ## 📜 Patent Notice
@@ -48,7 +48,7 @@ VecP technology is protected by pending patents. Use of the proprietary componen
 without a license may constitute patent infringement.
 
 Patent Application: [Pending]
-Filing Date: November 2024
+Filing Date: December 2024
 Jurisdiction: United States
 
 ---
