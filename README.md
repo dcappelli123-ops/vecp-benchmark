@@ -106,16 +106,6 @@ See [METHODOLOGY.md](docs/METHODOLOGY.md) for full details.
 
 ---
 
-## 📈 Submitting Results
-
-Want to add your model to the leaderboard?
-
-1. Run the benchmark using our scripts
-2. Submit your CSV to [vecp.org/submit](https://vecp.org/submit)
-3. Results are verified and published within 48 hours
-
----
-
 ## 🏢 For Enterprises
 
 **Want VecP for your models?**
