@@ -50,7 +50,7 @@ The following components are **not included** in this repository:
 - Trained model weights
 - Oracle judge system internals
 
-For licensing inquiries: [licensing@vecp.org](mailto:licensing@vecp.org)
+For licensing inquiries: [davidcappelli@vecp.org](mailto:davidcappelli@vecp.org)
 
 ---
 
@@ -126,7 +126,7 @@ VecP can be applied to any open-weights LLM to achieve:
 - **Faster inference** (smaller models = lower latency)
 - **Lower compute costs** (smaller models = less VRAM)
 
-Contact: [enterprise@vecp.org](mailto:enterprise@vecp.org)
+Contact: [davidcappelli@vecp.org](mailto:davidcappelli@vecp.org)
 
 ---
 
@@ -152,15 +152,6 @@ Contact: [enterprise@vecp.org](mailto:enterprise@vecp.org)
   url={https://vecp.org}
 }
 ```
-
----
-
-## 🔗 Links
-
-- [vecp.org](https://vecp.org) - Official website
-- [Whitepaper](https://vecp.org/whitepaper) - Technical details
-- [Leaderboard](https://vecp.org/leaderboard) - Live rankings
-- [API Documentation](https://vecp.org/docs) - Enterprise integration
 
 ---
 
